@@ -12,20 +12,20 @@
     height: 150px;
 }
 /* Home */
-#home{
+.home{
     height: 280px;
 }
-#home::before{
+.home::before{
     height: 420px;
 }
-#home p{
+.home p{
     font-size:16px;
 }
-#home h1{
+.home h1{
     font-size: 14px;
 }
 /* Services */
-#services h1{
+.services h1{
     padding-top: 50px;
     height: auto;
 }
@@ -39,7 +39,7 @@
     flex-wrap:wrap;
 }
 /* Contact US  */
-#contact{
+.contact{
     height: auto;
 }
 /* Footer  */
